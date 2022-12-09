@@ -1,0 +1,7 @@
+.userList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}

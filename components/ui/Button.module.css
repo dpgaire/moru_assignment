@@ -1,0 +1,17 @@
+.inverse{
+    margin-right: 10px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border:1px solid #FF0055 ;
+    outline: none;
+}
+
+.primary{
+     margin-right: 10px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border:1px solid #FF0055 ;
+    outline: none;
+    background-color: #FF0055;
+    color:white;
+}
